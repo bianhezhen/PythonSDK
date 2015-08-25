@@ -46,3 +46,11 @@ engines:
 #exclude_paths:
 #- spec/**/*
 #- vendor/**/*
+
+languages:
+   Ruby: true
+   JavaScript: true
+   Python: true
+   PHP: true
+exclude_paths:
+- "*/*"
