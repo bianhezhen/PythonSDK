@@ -41,7 +41,7 @@ engines:
 #- spec/**/*
 #- vendor/**/*
 
-languages:
-   Python: true
+# languages:
+#   Python: true
 exclude_paths:
 - "test/*"
