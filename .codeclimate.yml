@@ -48,9 +48,6 @@ engines:
 #- vendor/**/*
 
 languages:
-   Ruby: true
-   JavaScript: true
    Python: true
-   PHP: true
 exclude_paths:
 - "test/*"
