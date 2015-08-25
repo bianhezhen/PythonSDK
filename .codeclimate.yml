@@ -17,9 +17,7 @@
 # to turn off an engine, set enabled to `false` or remove it
 #  rubocop:
 #    enabled: true
-engines:
-   rubocop:
-      enabled: true
+
 
 # Engines can analyze files and report issues on them, but you can separately
 # decide which files will receive ratings based on those issues. This is
@@ -41,7 +39,7 @@ engines:
 #- spec/**/*
 #- vendor/**/*
 
-# languages:
-#   Python: true
+languages:
+   Python: true
 exclude_paths:
 - "test/*"
